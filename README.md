@@ -13,4 +13,10 @@ This repository contains code and datasets for analyzing restaurant data sourced
 To set up this project locally, follow these steps:
 1. Clone the repository:
    git clone https://github.com/Eins51/RestaurantAnalytics.git
-2. 
+2. Install required Python packages:
+   pip install -r requirements.txt
+
+## Usage
+After installation, you can run the Jupyter notebook 'restaurant_data_analysis.ipynb' to produce datasets for visualization.
+
+
