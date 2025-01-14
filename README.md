@@ -42,12 +42,10 @@ To set up this project locally, follow these steps:
    - Dashboard 1: Market Trends and Spending Insights
      - Analyze restaurant distribution, spending trends, and high-potential regions.
      - [Video Demo](https://github.com/Eins51/RestaurantAnalytics/blob/master/tableau/videos/market_trends_and_spending_insights.mp4)
-     - ![Dashboard 1 Preview](https://github.com/Eins51/RestaurantAnalytics/blob/master/tableau/screenshots/overview1.png)
      - ![Dashboard 1 Video Demo](https://github.com/Eins51/RestaurantAnalytics/blob/master/tableau/videos/market_trends_and_spending_insights.gif)
    - Dashboard 2: Peak and Off-Peak Customer Behavior
      - Understand peak dining hours, months, and consumer trends.
      - [Video Demo](https://github.com/Eins51/RestaurantAnalytics/blob/master/tableau/videos/peak_and_off-Peak_customer_behavior.mp4)
-     - ![Dashboard 2 Preview](https://github.com/Eins51/RestaurantAnalytics/blob/master/tableau/screenshots/overview3.png)
      - ![Dashboard 2 Video Demo](https://github.com/Eins51/RestaurantAnalytics/blob/master/tableau/videos/peak_and_off-Peak_customer_behavior.gif)
 
 ## Data Preprocessing
@@ -97,17 +95,6 @@ To set up this project locally, follow these steps:
 
   - Late-night dining trends in urban areas.
   - Inventory and staffing optimization based on peak/off-peak patterns.
-
-## Recommendations
-
-1. **Expand Locations**: Focus on cities like Philadelphia, Tampa, and New Orleans with high consumer interest.
-
-2. **Optimize Operating Hours**: Introduce late-night services (10 PM - 3 AM) in urban hotspots.
-
-3. Seasonal Inventory Strategies:
-
-   - Increase inventory during peak months (March, May, July).
-   - Reduce inventory during off-peak months (January, September, November) to minimize waste.
 
 ## Acknowledgments
 
