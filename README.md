@@ -76,6 +76,7 @@ To set up this project locally, follow these steps:
 
   - High-potential regions include Pennsylvania, Florida, and Louisiana.
   - Seasonal trends show spending peaks in March, May, and July.
+- Link: https://public.tableau.com/app/profile/yi.wang4922/viz/MarketTrendsandSpendingInsights/Overview
 
 ### Dashboard 2: Peak and Off-Peak Customer Behavior
 
@@ -85,16 +86,15 @@ To set up this project locally, follow these steps:
   - Off-Peak Months: January, September, November
   - Peak Hours: 11 PM to 1 AM
   - Off-Peak Hours: 8 AM to 10 AM
-
 - Visualizations:
 
   - Hourly and monthly check-in patterns.
   - Peak traffic periods by location.
-
 - Insights:
 
   - Late-night dining trends in urban areas.
   - Inventory and staffing optimization based on peak/off-peak patterns.
+- Link: https://public.tableau.com/app/profile/yi.wang4922/viz/RestaurantAnalysisofPeakandOff-PeakTrafficPeriods/TopandBottom
 
 ## Acknowledgments
 
